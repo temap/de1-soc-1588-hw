@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "18.1"
+DATE = "08:49:17  September 11, 2018"
+
+# Revisions
+
+PROJECT_REVISION = "soc_system"
